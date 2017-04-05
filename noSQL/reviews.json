@@ -1,0 +1,27 @@
+[
+	 {
+        "name":"Product",
+        "authoredBy":"John",
+        "comments":"This is not a template, this is a piece of art, with a huge care of every bit of code and pixel at interface ... Guys ... Chapeau!",
+        "imageName" : "/media/img/promo-banner-furniture.png"
+},
+{
+    "name":"Product1",
+    "authoredBy":"Jane",
+    "comments":"This is not a template, this is a piece of art, with a huge care of every bit of code and pixel at interface ... Guys ... Chapeau!",
+    "imageName" : "/media/img/promo-banner-furniture.png"
+},
+{
+    "name":"Product2",
+    "authoredBy":"Smith", 
+    "comments":"This is not a template, this is a piece of art, with a huge care of every bit of code and pixel at interface ... Guys ... Chapeau!", 
+    "imageName" : "/media/img/promo-banner-furniture.png"
+},
+{
+    "name":"Product3",
+    "authoredBy":"Kevin", 
+    "comments":"This is not a template, this is a piece of art, with a huge care of every bit of code and pixel at interface ... Guys ... Chapeau!", 
+    "imageName" : "/media/img/promo-banner-furniture.png"
+}
+
+]

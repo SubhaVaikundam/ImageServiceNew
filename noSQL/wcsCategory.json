@@ -1,0 +1,5 @@
+{"_id":"Boys","name":"Boys","seo":"boys","topnav":"true","sub_category":[{"name":"Shirts"},{"name":"T-Shirts"},{"name":"Jeans"},{"name":"Suits"},{"name":"Accessories"}]}
+{"_id":"Furniture","name":"Furniture","seo":"furniture","topnav":"true","sub_category":[{"name":"Chair"},{"name":"Desk"},{"name":"Sofa"},{"name":"Table"},{"name":"Wardrobe"},{"name":"Bed"}]}
+{"_id":"Girls","name":"Girls","seo":"girls","topnav":"true","sub_category":[{"name":"Tops"},{"name":"Jeans"},{"name":"Skirts"},{"name":"Accessories"},{"name":"Footwears"}]}
+{"_id":"Men","name":"Men","seo":"men","topnav":"true","sub_category":[{"name":"Shirts"},{"name":"Pants"},{"name":"Suits"},{"name":"Jeans"},{"name":"Accessoriestttt"}]}
+{"_id":"Women","name":"Women","seo":"women","topnav":"true","sub_category":[{"name":"Tops"},{"name":"Pants"},{"name":"Jeans"},{"name":"Footwear"},{"name":"Dresses"}]}

@@ -1,0 +1,1265 @@
+{  
+   "_id":"AuroraWMDRS-001",
+   "catentry_id":"11840",
+   "name":"Hermitage Fit and Flare Dress",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-001",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"XS",
+            "color":"Red"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_red.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_red.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-006",   
+   "catentry_id":"11845",
+   "name":"Hermitage Fit and Flare Dress",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-006",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Teal"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_teal.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_teal.jpg"
+}{  
+   "_id":"AuroraWMDRS-022",
+   "catentry_id":"11861",
+   "name":"Versatil Empire Waist Sundress",
+   "make":"Versatil",
+   "sku":"AuroraWMDRS-022",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Empire waist sundress with flower print and frilly sleeves",
+      "attributes":[  
+         {  
+            "size":"XS",
+            "color":"Red"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0015_a_red.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0015_a_red.jpg"
+}{  
+   "_id":"AuroraWMDRS-132",
+   "catentry_id":"11971",
+   "name":"Albini A-line Cotton Dress",
+   "make":"Albini",
+   "sku":"AuroraWMDRS-132",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Double-color casual short sleeve dress with soft collar",
+      "attributes":[  
+         {  
+            "size":"XL",
+            "color":"Orange"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0005_a_orange.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0005_a_orange.jpg"
+}{  
+   "_id":"MCL008_081807",
+   "catentry_id":"12745",
+   "name":"Albini Dark Gray Slim Fit Wool Suit",
+   "make":"Albini",
+   "sku":"MCL008_081807",
+   "category":"Men",
+   "sub_category":"Shirts",
+   "pricing":{  
+      "retail":"1149.00",
+      "sale":"1049.00"
+   },
+   "details":{  
+      "description":"Slim fitting dark gray wool suit",
+      "attributes":[  
+         {  
+            "size":"L",
+            "color":"Gray"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl008_suits/200x310/mcl008_0818.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl008_suits/646x1000/mcl008_0818.jpg"
+}{  
+   "_id":"AuroraWMDRS-003",
+   "catentry_id":"11842",
+   "name":"Hermitage Fit and Flare Dress Red",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-003",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Red"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_red.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_red.jpg"
+}{  
+   "_id":"AuroraWMDRS-004",
+   "catentry_id":"11843",
+   "name":"Hermitage Fit and Flare Dress Red X",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-004",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"XL",
+            "color":"Red"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_red.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_red.jpg"
+}{  
+   "_id":"AuroraWMDRS-005",
+   "catentry_id":"11844",
+   "name":"Hermitage Fit and Flare Dress Teal",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-005",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Teal"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_teal.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_teal.jpg"
+}{  
+   "_id":"AuroraWMDRS-007",
+   "catentry_id":"11846",
+   "name":"Hermitage Fit and Flare Dress Teal L",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-007",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"L",
+            "color":"Teal"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_teal.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_teal.jpg"
+}{  
+   "_id":"AuroraWMDRS-010",
+   "catentry_id":"11849",
+   "name":"Hermitage Fit and Flare Dress Blue",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-010",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_blue.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_blue.jpg"
+}{  
+   "_id":"AuroraWMDRS-011",
+   "catentry_id":"11850",
+   "name":"Hermitage Fit and Flare Dress Blue X",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-011",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"XL",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_blue.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_blue.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-012",
+   "catentry_id":"11851",
+   "name":"Hermitage Fit and Flare Dress Blue S",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-012",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_blue.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_blue.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-013",
+   "catentry_id":"11852",
+   "name":"Hermitage Fit and Flare Dress XL",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-013",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Jewel-toned cocktail dress with fitted bodice and gently flared skirt",
+      "attributes":[  
+         {  
+            "size":"XL",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0028_a_blue.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0028_a_blue.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-014",
+   "catentry_id":"11853",
+   "name":"Versatil Empire Waist Sundress",
+   "make":"Versatil",
+   "sku":"AuroraWMDRS-014",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Empire waist sundress with flower print and frilly sleeves",
+      "attributes":[  
+         {  
+            "size":"XS",
+            "color":"Gray"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0015_a_gray.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0015_a_gray.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-018",
+   "catentry_id":"11857",
+   "name":"Versatil Empire Waist Sundress",
+   "make":"Versatil",
+   "sku":"AuroraWMDRS-018",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Empire waist sundress with flower print and frilly sleeves",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Orange"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0015_a_orange.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0015_a_orange.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-036",
+   "catentry_id":"11875",
+   "name":"Luigi Valenti Empire Waist Slip Dress",
+   "make":"Luigi Valenti",
+   "sku":"AuroraWMDRS-036",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"100.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Empire waist slip dress with a V-neck and long flared sleeves",
+      "attributes":[  
+         {  
+            "size":"L",
+            "color":"Purple"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0026_a_purple.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0026_a_purple.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-041",
+   "catentry_id":"11880",
+   "name":"Luigi Valenti Empire Waist Slip Dress",
+   "make":"Luigi Valenti",
+   "sku":"AuroraWMDRS-041",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"100.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Empire waist slip dress with a V-neck and long flared sleeves",
+      "attributes":[  
+         {  
+            "size":"XL",
+            "color":"Red"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0026_a_red.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0026_a_red.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-046",
+   "catentry_id":"11885",
+   "name":"Hermitage Pencil Dress",
+   "make":"Hermitage Collection",
+   "sku":"AuroraWMDRS-046",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"250.00"
+   },
+   "details":{  
+      "description":"Pencil dress with fabric detailing and three-quarter sleeve",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Orange"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0007_a_orange.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0007_a_orange.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-071",
+   "catentry_id":"11910",
+   "name":"Luigi Valenti Strapless Cocktail Dress",
+   "make":"Luigi Valenti",
+   "sku":"AuroraWMDRS-071",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"100.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Strapless cocktail dress with appliqued roses and tassels at the hem",
+      "attributes":[  
+         {  
+            "size":"XS",
+            "color":"Purple"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0006_a_purple.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0006_a_purple.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-085",
+   "catentry_id":"11924",
+   "name":"Albini Sleeveless Slip Dress",
+   "make":"Albini",
+   "sku":"AuroraWMDRS-085",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"V-necked casual slip dress with spaghetti straps and flowery print",
+      "attributes":[  
+         {  
+            "size":"XL",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0001_a_blue.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0001_a_blue.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-101",
+   "catentry_id":"11940",
+   "name":"Luigi Valenti Sleeveless Slip Dress",
+   "make":"Luigi Valenti",
+   "sku":"AuroraWMDRS-101",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Halter V-necked dress with layered skirt",
+      "attributes":[  
+         {  
+            "size":"XS",
+            "color":"Brown"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0030_a_brown.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0030_a_brown.jpg"
+}
+{  
+   "_id":"AuroraWMDRS-125",
+   "catentry_id":"11964",
+   "name":"Albini A-line Cotton Dress",
+   "make":"Albini",
+   "sku":"AuroraWMDRS-125",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Double-color casual short sleeve dress with soft collar",
+      "attributes":[  
+         {  
+            "size":"XS",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0005_a_blue.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0005_a_blue.jpg"
+}
+{  
+   "_id":"MCL010_101106",
+   "catentry_id":"13000",
+   "name":"Gusso Tapered Suit Pants",
+   "make":"Gusso",
+   "sku":"MCL010_101106",
+   "category":"Men",
+   "sub_category":"Pants",
+   "pricing":{  
+      "retail":"79.00",
+      "sale":"79.00"
+   },
+   "details":{  
+      "description":"Tailored and slim fitting suit pants",
+      "attributes":[  
+         {  
+            "size":"36",
+            "color":"Gray"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1011.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1011.jpg"
+}
+{  
+   "_id":"MCL010_1013",
+   "catentry_id":"13001",
+   "name":"Versatil Navy Jeans",
+   "make":"Versatil",
+   "sku":"MCL010_1013",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"79.00",
+      "sale":"69.00"
+   },
+   "details":{  
+      "description":"Straight cut jeans with spandex for comfort",
+      "attributes":[  
+         {  
+            "size":"34",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1013.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1013.jpg"
+}
+{  
+   "_id":"MCL010_1014",
+   "catentry_id":"13025",
+   "name":"Luigi Valenti Regular Fit Jeans",
+   "make":"Luigi Valenti",
+   "sku":"MCL010_1013",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"69.00",
+      "sale":"69.00"
+   },
+   "details":{  
+      "description":"Smart and casual jeans for all occasions",
+      "attributes":[  
+         {  
+            "size":"32",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1014.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1014.jpg"
+}
+{  
+   "_id":"MCL010_101901",
+   "catentry_id":"13035",
+   "name":"Albini Classic Fit Jeans",
+   "make":"Albini",
+   "sku":"MCL010_101901",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"79.00",
+      "sale":"79.00"
+   },
+   "details":{  
+      "description":"The all-American jean for understated cool",
+      "attributes":[  
+         {  
+            "size":"32",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1019.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1019.jpg"
+}{  
+   "_id":"MCL010_101906",
+   "catentry_id":"13040",
+   "name":"Albini Classic Fit Jeans X",
+   "make":"Albini",
+   "sku":"MCL010_101906",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"79.00",
+      "sale":"79.00"
+   },
+   "details":{  
+      "description":"The all-American jean for understated cool",
+      "attributes":[  
+         {  
+            "size":"34",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1019.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1019.jpg"
+}{  
+   "_id":"MCL010_102102",
+   "catentry_id":"13045",
+   "name":"Versatil Montage Jeans",
+   "make":"Versatil",
+   "sku":"MCL010_102102",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"69.00",
+      "sale":"69.00"
+   },
+   "details":{  
+      "description":"Rugged and casual low rise jeans",
+      "attributes":[  
+         {  
+            "size":"32",
+            "color":"Light Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1021.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1021.jpg"
+}{  
+   "_id":"MCL010_102206",
+   "catentry_id":"13059",
+   "name":"Hermitage Collection Straight Leg Jean",
+   "make":"Hermitage Collection",
+   "sku":"MCL010_102206",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"79.00",
+      "sale":"69.00"
+   },
+   "details":{  
+      "description":"Rugged and casual low rise jeans",
+      "attributes":[  
+         {  
+            "size":"36",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1022.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1022.jpg"
+}{  
+   "_id":"MCL010_1007010",
+   "catentry_id":"12970",
+   "name":"Hermitage Collection Loose Fit Jeans",
+   "make":"Hermitage Collection",
+   "sku":"MCL010_1007010",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"89.00",
+      "sale":"79.00"
+   },
+   "details":{  
+      "description":"Indigo-washed ultra-comfortable favorites",
+      "attributes":[  
+         {  
+            "size":"36",
+            "color":"Gray"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1007.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1007.jpg"
+}{  
+   "_id":"MCL010_100902",
+   "catentry_id":"12975",
+   "name":"Albini Relaxed Fit Jeans",
+   "make":"Albini",
+   "sku":"MCL010_100902",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"89.00",
+      "sale":"79.00"
+   },
+   "details":{  
+      "description":"Super-faded cowboy-style jeans",
+      "attributes":[  
+         {  
+            "size":"34",
+            "color":"Light Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1009.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1009.jpg"
+}
+{  
+   "_id":"MCL010_100907",
+   "catentry_id":"12980",
+   "name":"Albini Relaxed Fit Jeans X",
+   "make":"Albini",
+   "sku":"MCL010_100907",
+   "category":"Men",
+   "sub_category":"Jeans",
+   "pricing":{  
+      "retail":"89.00",
+      "sale":"79.00"
+   },
+   "details":{  
+      "description":"Super-faded cowboy-style jeans",
+      "attributes":[  
+         {  
+            "size":"40",
+            "color":"Light Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1009.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1009.jpg"
+}{  
+   "_id":"MCL010_101008",
+   "catentry_id":"12990",
+   "name":"Luigi Valenti Gris Trousers",
+   "make":"Luigi Valenti",
+   "sku":"MCL010_101008",
+   "category":"Men",
+   "sub_category":"Pants",
+   "pricing":{  
+      "retail":"79.00",
+      "sale":"69.00"
+   },
+   "details":{  
+      "description":"Dress for success in these slim fitting dress pants",
+      "attributes":[  
+         {  
+            "size":"38 ",
+            "color":"Gray"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/men/mcl010_pants/200x310/mcl010_1010.jpg",
+   "full_image":"/media/images/catalog/apparel/men/mcl010_pants/646x1000/mcl010_1010.jpg"
+}{  
+   "_id":"AuroraWMDRS-162",
+   "catentry_id":"12001",
+   "name":"Versatil Short Sleeved Wrap Dress",
+   "make":"Versatil",
+   "sku":"AuroraWMDRS-162",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"100.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Short sleeved wrap dress with flared skirt",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Brown"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0014_a_brown.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0014_a_brown.jpg"
+}{  
+   "_id":"AuroraWMDRS-166",
+   "catentry_id":"12005",
+   "name":"Versatil Short Sleeved Wrap Dress",
+   "make":"Versatil",
+   "sku":"AuroraWMDRS-166",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"100.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Short sleeved wrap dress with flared skirt",
+      "attributes":[  
+         {  
+            "size":"L",
+            "color":"Gray"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0014_a_gray.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0014_a_gray.jpg"
+}{  
+   "_id":"AuroraWMDRS-171",
+   "catentry_id":"12010",
+   "name":"Versatil Short Sleeved Wrap Dress",
+   "make":"Versatil",
+   "sku":"AuroraWMDRS-171",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"100.00",
+      "sale":"100.00"
+   },
+   "details":{  
+      "description":"Short sleeved wrap dress with flared skirt",
+      "attributes":[  
+         {  
+            "size":"L",
+            "color":"Purple"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0014_a_purple.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0014_a_purple.jpg"
+}{  
+   "_id":"AuroraWMDRS-177",
+   "catentry_id":"12016",
+   "name":"Albini Silk Evening Dress ",
+   "make":"Albini",
+   "sku":"AuroraWMDRS-177",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"250.00"
+   },
+   "details":{  
+      "description":"Silk cocktail dress with pleated neck and hem",
+      "attributes":[  
+         {  
+            "size":"XL",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0008_a_blue.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0008_a_blue.jpg"
+}{  
+   "_id":"AuroraWMDRS-198",
+   "catentry_id":"12037",
+   "name":"Albini Silk Evening Dress",
+   "make":"Albini",
+   "sku":"AuroraWMDRS-198",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"250.00",
+      "sale":"250.00"
+   },
+   "details":{  
+      "description":"Silk cocktail dress with pleated neck and hem",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Teal"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0008_a_teal.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0008_a_teal.jpg"
+}{  
+   "_id":"AuroraWMDRS-221",
+   "catentry_id":"12048",
+   "name":"Albini Casual Knit Strapless Dress",
+   "make":"Albini",
+   "sku":"AuroraWMDRS-221",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Strapless knit A-line summer dress with polka dots",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Green"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0023_a_green.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0023_a_green.jpg"
+}{  
+   "_id":"AuroraWMDRS-240",
+   "catentry_id":"12067",
+   "name":"Gusso Pleated Sleeveless Dress",
+   "make":"Gusso",
+   "sku":"AuroraWMDRS-240",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"45.00"
+   },
+   "details":{  
+      "description":"Sleeveless slip dress with satin hem and flared body",
+      "attributes":[  
+         {  
+            "size":"L",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0013_a_blue.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0013_a_blue.jpg"
+}{  
+   "_id":"AuroraWMDRS-251",
+   "catentry_id":"12078",
+   "name":"Gusso Pleated Sleeveless Dress",
+   "make":"Gusso",
+   "sku":"AuroraWMDRS-251",
+   "category":"Women",
+   "sub_category":"Tops",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"45.00"
+   },
+   "details":{  
+      "description":"Sleeveless slip dress with satin hem and flared body",
+      "attributes":[  
+         {  
+            "size":"XL",
+            "color":"Green"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/women/wcl000_dresses/200x310/wcl000_0013_a_green.jpg",
+   "full_image":"/media/images/catalog/apparel/women/wcl000_dresses/646x1000/wcl000_0013_a_green.jpg"
+}
+{  
+   "_id":"BCL014_141101",
+   "catentry_id":"14263",
+   "name":"Albini Blue Plaid Shirt",
+   "make":"Albini",
+   "sku":"BCL014_141101",
+   "category":"Boys",
+   "sub_category":"Shirts",
+   "pricing":{  
+      "retail":"60.00",
+      "sale":"60.00"
+   },
+   "details":{  
+      "description":"Blue plaid shirt with long sleeves",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1411.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1411.jpg"
+}{  
+   "_id":"BCL014_141105",
+   "catentry_id":"14265",
+   "name":"Albini Purple Plaid Shirt",
+   "make":"Albini",
+   "sku":"BCL014_141105",
+   "category":"Boys",
+   "sub_category":"Shirts",
+   "pricing":{  
+      "retail":"60.00",
+      "sale":"55.00"
+   },
+   "details":{  
+      "description":"Purple plaid shirt with long sleeves",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Purple"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1415.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1415.jpg"
+}{  
+   "_id":"BCL014_1412",
+   "catentry_id":"14268",
+   "name":"Versatil Orange Half-Zip Sweater",
+   "make":"Versatil",
+   "sku":"BCL014_1412",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"35.00",
+      "sale":"35.00"
+   },
+   "details":{  
+      "description":"Orange half-zip sweater",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Orange"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1412.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1412.jpg"
+}
+
+{  
+   "_id":"BCL014_140303",
+   "catentry_id":"14205",
+   "name":"Borsati Dual-Toned T-Shirt",
+   "make":"Borsati",
+   "sku":"BCL014_140303",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Dual-toned t-shirt with purple shoulders",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Red"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1403.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1403.jpg"
+}{  
+   "_id":"BCL014_1404",
+   "catentry_id":"14210",
+   "name":"Luigi Valenti Green Striped T-Shirt",
+   "make":"Luigi Valenti",
+   "sku":"BCL014_1404",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"70.00",
+      "sale":"63.00"
+   },
+   "details":{  
+      "description":"Green striped t-shirt with long sleeves",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Green"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1404.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1404.jpg"
+}{  
+   "_id":"BCL014_140402",
+   "catentry_id":"14212",
+   "name":"Luigi Valenti Green Striped T-Shirt X",
+   "make":"Luigi Valenti",
+   "sku":"BCL014_140402",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"70.00",
+      "sale":"63.00"
+   },
+   "details":{  
+      "description":"Green striped t-shirt with long sleeves",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Green"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1404.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1404.jpg"
+}{  
+   "_id":"BCL014_140502",
+   "catentry_id":"14220",
+   "name":"Albini Blue T-Shirt",
+   "make":"Albini",
+   "sku":"BCL014_140502",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"30.00",
+      "sale":"30.00"
+   },
+   "details":{  
+      "description":"Classic blue t-shirt",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1405.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1405.jpg"
+}
+{  
+   "_id":"BCL014_140601",
+   "catentry_id":"14227",
+   "name":"Versatil Bright Blue Striped T-Shirt",
+   "make":"Versatil",
+   "sku":"BCL014_140601",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"30.00",
+      "sale":"30.00"
+   },
+   "details":{  
+      "description":"Bright blue striped t-shirt",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Bright Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1406.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1406.jpg"
+}{  
+   "_id":"BCL014_140701",
+   "catentry_id":"14235",
+   "name":"Hermitage Brown Striped Pullover",
+   "make":"Hermitage Collection",
+   "sku":"BCL014_140701",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Brown striped pullover",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Brown"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1407.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1407.jpg"
+}
+{  
+   "_id":"BCL014_140701",
+   "catentry_id":"14237",
+   "name":"Hermitage Brown Striped Pullover X",
+   "make":"Hermitage Collection",
+   "sku":"BCL014_140701",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"50.00"
+   },
+   "details":{  
+      "description":"Brown striped pullover",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Brown"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1407.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1407.jpg"
+}{  
+   "_id":"BCL014_1408",
+   "catentry_id":"14240",
+   "name":"Gusso Woollen Baby Vest ",
+   "make":"Gusso",
+   "sku":"BCL014_1408",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"30.00",
+      "sale":"30.00"
+   },
+   "details":{  
+      "description":"Woollen baby vest in navy blue",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1408.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1408.jpg"
+}{  
+   "_id":"BCL014_140901",
+   "catentry_id":"14247",
+   "name":"Borsati Blue Layered T-Shirt",
+   "make":"Borsati",
+   "sku":"BCL014_140901",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"50.00",
+      "sale":"45.00"
+   },
+   "details":{  
+      "description":"Blue layered t-shirt with full sleeves",
+      "attributes":[  
+         {  
+            "size":"M",
+            "color":"Blue"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1409.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1409.jpg"
+}{  
+   "_id":"BCL014_141001",
+   "catentry_id":"14255",
+   "name":"Luigi Valenti Brown Striped T-Shirt",
+   "make":"Luigi Valenti",
+   "sku":"BCL014_141001",
+   "category":"Boys",
+   "sub_category":"T-Shirts",
+   "pricing":{  
+      "retail":"30.00",
+      "sale":"30.00"
+   },
+   "details":{  
+      "description":"Brown striped t-shirt",
+      "attributes":[  
+         {  
+            "size":"S",
+            "color":"Brown"
+         }
+      ]
+   },
+   "tumb_image":"/media/images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1410.jpg",
+   "full_image":"/media/images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1410.jpg"
+}
